@@ -3,16 +3,16 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle:
-description:
-author: John Doe
+title: 小王MM的个人博客
+subtitle: 从事前端开发的码农一枚
+description: 每天都有所成长
+author: haiyan.wang
 language: zh-Hans
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: https://xiaowangmm2.github.io
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -79,7 +79,7 @@ theme: next
 
 deploy:
   type: git
-  repo: https://github.com/xiaowangmm2/xiaowangmm2.github.io
+  repo: git@github.com:xiaowangmm2/xiaowangmm2.github.io.git
 
   branch: master
   message: 部署成功了，赶紧看看吧
