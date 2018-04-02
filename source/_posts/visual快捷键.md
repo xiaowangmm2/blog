@@ -1,10 +1,11 @@
 ---
 title: visual快捷键
-date: 2018-03-30 17:47:34
 tags:
-- visual
+  - visual
 categories:
-- 工具
+  - 工具
+abbrlink: 81cd6102
+date: 2018-03-30 17:47:34
 ---
 
 ### 一、快捷键

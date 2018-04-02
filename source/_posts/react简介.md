@@ -1,10 +1,11 @@
 ---
 title: react简介
-date: 2017-09-18 11:04:58
 tags:
-- react
+  - react
 categories:
-- react
+  - react
+abbrlink: de3ba3c
+date: 2017-09-18 11:04:58
 ---
 
 # react-study1

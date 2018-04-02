@@ -1,10 +1,11 @@
 ---
 title: react进阶
-date: 2017-09-22 14:13:35
 tags:
-- react
+  - react
 categories:
-- react
+  - react
+abbrlink: c834ce66
+date: 2017-09-22 14:13:35
 ---
 
 # react-study2

@@ -1,10 +1,11 @@
 ---
 title: npm命令
-date: 2018-03-30 17:38:39
 tags:
-- npm
+  - npm
 categories:
-- npm
+  - npm
+abbrlink: 90f8805
+date: 2018-03-30 17:38:39
 ---
 
 

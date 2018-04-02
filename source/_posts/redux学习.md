@@ -1,10 +1,11 @@
 ---
 title: redux学习
-date: 2017-10-08 14:00:18
 tags:
-- react
+  - react
 categories:
-- react
+  - react
+abbrlink: 2bbb1d50
+date: 2017-10-08 14:00:18
 ---
 
 # redux
